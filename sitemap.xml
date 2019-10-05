@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://domgreen.com/blog/</loc>
+    <lastmod>2019-09-21T17:22:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://domgreen.com/</loc>
+    <lastmod>2019-09-21T17:22:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://domgreen.com/blog/helloworld/</loc>
+    <lastmod>2019-09-21T17:22:55+01:00</lastmod>
   </url>
   
   <url>
