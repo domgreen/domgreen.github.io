@@ -1,9 +1,9 @@
 [
     {
-        "ref": "https://www.domgreen.com/blog/helloworld/",
-        "title": "Helloworld",
+        "ref": "https://domgreen.com/blog/helloworld/",
+        "title": "Hello World!",
         "section": "blog",
         "date" : "2019.09.21",
-        "body": "hello world\n"
+        "body": "Hello, World!\n"
     }
 ]
