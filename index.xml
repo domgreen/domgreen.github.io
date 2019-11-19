@@ -5,10 +5,19 @@
     <link>https://domgreen.com/</link>
     <description>Recent content on domgreen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Sep 2019 17:22:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 17:15:20 +0100</lastBuildDate>
     
 	<atom:link href="https://domgreen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KubeCon CNCF San Diego - Introduction To Thanos</title>
+      <link>https://domgreen.com/blog/cncfsandiego2019-intro-to-thanos/</link>
+      <pubDate>Tue, 19 Nov 2019 17:15:20 +0100</pubDate>
+      
+      <guid>https://domgreen.com/blog/cncfsandiego2019-intro-to-thanos/</guid>
+      <description> </description>
+    </item>
     
     <item>
       <title>Hello World!</title>

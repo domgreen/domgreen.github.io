@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://domgreen.com/blog/cncfsandiego2019-intro-to-thanos/",
+        "title": "KubeCon CNCF San Diego - Introduction To Thanos",
+        "section": "blog",
+        "date" : "2019.11.19",
+        "body": " "
+    }
+,
+    {
         "ref": "https://domgreen.com/blog/helloworld/",
         "title": "Hello World!",
         "section": "blog",
